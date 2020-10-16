@@ -1,8 +1,8 @@
 ### Hi there, I'm Sourabh 👋
 
-## I'm a Web developer, Designer and Student! <br />
+## I'm a Web developer, Designer and Student!
 
-## CodeWar Badge
+#### CodeWar Badge
 <img align="left" alt="HTML5" src="https://www.codewars.com/users/Devsourabh/badges/large" />
 
 - 🔭 I’m currently working on Something Cool!
