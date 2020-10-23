@@ -1,6 +1,6 @@
 ### Hi there, I'm Sourabh 👋
 
-## I'm a coder and Student!
+## I'm a coder!
 
 <img align="left" alt="HTML5" src="https://www.codewars.com/users/Devsourabh/badges/large" />
 
